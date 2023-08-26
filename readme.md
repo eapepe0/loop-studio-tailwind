@@ -14,7 +14,7 @@ Pagina hecha con tailwindcss
 
 ## Deploy
 
-[Link a la pagina]()
+[Link a la pagina](https://fanciful-dieffenbachia-21e6d4.netlify.app/)
 [Link a la pagina marcada](https://64ea6c1ef3c77074712dcaf3--inspiring-truffle-789b4f.netlify.app/)
 
 ## Correr Tailwind
